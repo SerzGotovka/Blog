@@ -1,0 +1,6 @@
+DB_ENGINE = django.db.backends.postgresql
+DB_NAME = postgres
+DB_USER = postgres
+DB_PASSWORD = T$|8>b%;IvgbXaCA
+DB_HOST = 34.116.166.162
+DB_PORT = 5432
